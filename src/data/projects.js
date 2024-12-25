@@ -47,6 +47,6 @@ export const projectsData = [
 		title: 'AI Personal Trainer',
 		category: '(In-Progress) Group Project for Artificial Intelligence class, comparing Deep Learning models, made using Python.',
 		img: WebImage1,
-		url: 'https://github.com/edeliciouso/AI-Personal-Trainer'
+		url: 'https://github.com/FelAmore/Corect-Fitness'
 	},
 ];
